@@ -1,0 +1,13 @@
+{
+  "name": "node-red-render",
+  "version": "1.0.0",
+  "description": "Node-RED deployment on Render with required nodes",
+  "dependencies": {
+    "node-red": "^3.1.0",
+    "node-red-contrib-chatbot": "^0.20.9",
+    "node-red-node-websocket": "^0.3.9"
+  },
+  "scripts": {
+    "start": "node-red"
+  }
+}
